@@ -4,8 +4,7 @@
 
 Welcome to **Let Shiny Do EDA For You** — a web application built with **Python Shiny** that automates **Exploratory Data Analysis (EDA)** with beautiful visualizations and interactive controls.
 
-👉 **Live Demo**: [https://aatif-ahmad-data-viz.shinyapps.io/shiny_eda/](https://aatif-ahmad-data-viz.shinyapps.io/shiny_eda/)
-
+👉 **Live Demo**: https://aatif-ahmad-projects.shinyapps.io/shiny_eda
 ---
 
 ## 📂 Features

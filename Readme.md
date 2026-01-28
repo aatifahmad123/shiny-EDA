@@ -4,10 +4,10 @@
 
 Welcome to **Let Shiny Do EDA For You** — a web application built with **Python Shiny** that automates **Exploratory Data Analysis (EDA)** with beautiful visualizations and interactive controls.
 
-👉 **Live Demo**: https://aatif-ahmad-projects.shinyapps.io/shiny_eda
+Live Demo: https://aatif-ahmad-projects.shinyapps.io/shiny_eda
 ---
 
-## 📂 Features
+## Features
 
 - **CSV Upload** (up to 15 MB)
 - **Dataset Preview** (see first few rows)
@@ -24,27 +24,27 @@ Welcome to **Let Shiny Do EDA For You** — a web application built with **Pytho
 
 ---
 
-## 🖼️ Example Outputs
+## Example Outputs
 
-### 📄 1. File Upload and Dataset Overview
+### 1. File Upload and Dataset Overview
 
 <img src="./assets/image_1.png" alt="File Upload and Dataset Overview" width="800" height="400">
 
 ---
 
-### 📊 2. Categorical Column Visualization
+### 2. Categorical Column Visualization
 
 <img src="./assets/image_2.png" alt="Categorical Column Visualization" width="800" height="400">
 
 ---
 
-### 🔵 3. Scatter Plot (Colored by Classes)
+### 3. Scatter Plot (Colored by Classes)
 
 <img src="./assets/image_3.png" alt="Scatter Plot Colored by Classes" width="800" height="400">
 
 ---
 
-## 🚀 Running Locally
+## Running Locally
 
 Follow these steps to run the app on your machine:
 
@@ -72,7 +72,7 @@ Follow these steps to run the app on your machine:
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Backend**: Python 3
 - **Frontend/UI**: Shiny for Python
